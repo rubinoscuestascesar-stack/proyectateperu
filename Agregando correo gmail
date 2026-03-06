@@ -777,6 +777,8 @@
                 <div style="text-align: left;">
                     <p style="font-size: 12px; color: var(--text-muted); font-weight: 700; text-transform: uppercase;">Email</p>
                     <a href="mailto:logistica@proyectateperu.com" style="text-decoration: none; color: var(--text-main); font-weight: 800; font-size: 18px;">logistica@proyectateperu.com</a>
+                    <br>
+<a href="mailto:proyectate.logistica@gmail.com" style="text-decoration: none; color: var(--text-main); font-weight: 500; font-size: 14px; opacity: 0.8;">proyectate.logistica@gmail.com</a>
                 </div>
             </div>
 
